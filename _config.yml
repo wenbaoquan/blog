@@ -21,7 +21,7 @@ rss_url: /blog/pages/atom.xml
 
 # avatar头像及Favicon
 avatar: /blog/assets/img/clover.jpeg
-favicon: /blog/assets/img/clover.jpeg
+favicon: /blog/assets/img/ranking.png
 
 # google analytics 设置
 ga:

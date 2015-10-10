@@ -46,7 +46,7 @@ Theme - Soda 和 Monokai Extended, 安装之后在 user settings 中设置使用
 其他插件
 还可以安装 Emmet, SublimeLinter (注意依赖关系), ColorPicker, Gitignore等插件
 
-##设置
+## 设置
 
 以下是推荐的设置, 可以直接复制黏贴放入 user settings 中, 需要注意的是字体文件需要提前安装:
 

@@ -1,6 +1,8 @@
 ### 我的博客
 
-地址：[http://yansu.org](http://yansu.org)
+从闫肃大神那里fork的代码
+
+地址：[http://wenbaoquan.github.io/blog/](http://wenbaoquan.github.io/blog/)
 
 ### 安装说明
 

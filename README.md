@@ -4,4 +4,4 @@
 
 ### 备注
 
-无耻的盗用了[http://yansu.org/](闫肃)的主题，喜欢的朋友可以去他的[https://github.com/suyan/suyan.github.io](GitHub)获取。
+无耻的盗用了[闫肃](http://yansu.org/)的主题，喜欢的朋友可以去他的[GitHub](https://github.com/suyan/suyan.github.io)获取。

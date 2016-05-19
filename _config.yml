@@ -3,8 +3,8 @@ title: 文宝泉的个人博客
 email: 605655201@qq.com
 description: > # this means to ignore newlines until "baseurl:"
   文宝泉的博客
-baseurl: "/blog/" # the subpath of your site, e.g. /blog/
-url: "http://wenbaoquan.github.io/blog" # the base hostname & protocol for your site
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
+url: "http://wenbaoquan.github.io/blog/" # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 
 # Sidebar filter

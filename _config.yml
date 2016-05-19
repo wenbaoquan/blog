@@ -24,7 +24,7 @@ favicon: http://o7emt00tc.bkt.clouddn.com/head_icon.png
 
 # disqus 设置
 disqus:
-  shortname: wenbaoquan
+  shortname: wenbaoquan-blog
 
 # google analytics 设置
 ga:

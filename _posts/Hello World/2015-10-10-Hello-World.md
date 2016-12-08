@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: Hello World
 category: hello
 tags: hello

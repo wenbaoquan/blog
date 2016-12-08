@@ -2,7 +2,7 @@
 layout: post
 title: 如何将sublime3打造成python/django IDE开发利器
 category: tools
-tags: sublime， tools
+tags: sublime tools
 description: sublime，一个小巧又强大的编辑器。
 ---
 

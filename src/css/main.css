@@ -7,12 +7,33 @@ a:hover, a:focus, a:active {
   text-decoration: none;
 }
 
+.full-height {
+  height: 100%;
+}
+
 #content {
   position: absolute;
-  top: 50px;
+  top: 52px;
   bottom: 0;
   left: 0;
   right: 0;
+}
+
+#menu-box {
+  left: 0;
+  transition: left .7s;
+}
+
+#toggle-list {
+  width: 30px;
+  height: 50px;
+  line-height: 50px;
+  position: absolute;
+  top: 0;
+  right: -30px;
+  border: 1px solid #e4e4e4;
+  z-index: 10000;
+  text-align: center;
 }
 
 #menu_list, #post_list, #post_content {

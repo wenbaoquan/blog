@@ -16,4 +16,7 @@ description: jekyll 安装
 
 		（根据Gemfile安装）
 
+		启动一个服务
+		jekyll serve
+
 		...

@@ -25,3 +25,15 @@ $(function () {
     }
   });
 })
+
+$("#toggle-list").bind('click', function(e) {
+  const btn = $(this)
+  const box = $("#menu-box")
+  if (btn.data("show")) {
+    box.css('left', - box.outerWidth(true))
+    btn.data("show", false).html('>')
+    return
+  }
+  box.css('left', 0)
+  btn.data("show", true).html('<')
+})
